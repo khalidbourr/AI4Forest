@@ -129,6 +129,12 @@ cd ~/UnrealEngine/Engine/Binaries/Linux
 
 ```
 
+or (for better performance)
+
+```bash
+./UnrealEditor -vulkan
+```
+
 If the editor launches, you've successfully installed UE5 on Linux.
 
 #### **6. Setting Up the Project**
