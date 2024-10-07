@@ -199,5 +199,7 @@ or (for better performance)
 The first time you open the project, UE5 may need to compile shaders and load assets. This can take some time.
 4. Explore the Environment
 
-    Use the viewport to navigate around the forest environment.
-    Play the scene by clicking on the "Play" button to test any interactive elements.
+  Go to File --> Open Level --> Landscape 
+  
+  Use the viewport to navigate around the forest environment.
+  Play the scene by clicking on the "Play" button to test any interactive elements.
