@@ -1,0 +1,45 @@
+# Ignore binary files
+*.exe
+*.dll
+*.pdb
+*.app
+*.dSYM
+*.ipa
+*.lib
+
+# Ignore build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/Android/
+Build/IOS/
+Build/Linux/
+Build/Mac/
+Build/Windows/
+Build/HTML5/
+
+# Ignore user-specific settings
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.vcxproj
+*.opensdf
+*.sdf
+*.VC.db
+
+# Ignore config files that contain user-specific settings
+Config/DefaultEditor.ini
+Config/DefaultEditorLayout.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Ignore log files
+*.log
+
+# Ignore crash reports
+**/CrashReportClient/
+
+# Ignore other unnecessary files
+Thumbs.db
+.DS_Store
