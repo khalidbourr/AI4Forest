@@ -52,7 +52,7 @@ Open your terminal and install the necessary dependencies:
 
 ```bash
 sudo apt update
-sudo apt install build-essential clang lld cmake python3-dev libvulkan1 libvulkan-dev vulkan-utils
+sudo apt install build-essential clang lld cmake python3-dev libvulkan1 libvulkan-dev vulkan-tools
 ```
 
 
@@ -175,7 +175,12 @@ Launch UE5:
 
 cd ~/UnrealEngine/Engine/Binaries/Linux
 ./UnrealEditor
+```
 
+or (for better performance)
+
+```bash
+./UnrealEditor -vulkan
 ```
 
 2. Open the AI4Forest Project
