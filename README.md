@@ -5,7 +5,7 @@
 **AI4Forest** is a virtual environment created in Unreal Engine 5 (UE5) designed for training and testing robotic navigation algorithms in a realistic forest setting. The environment includes detailed terrain generated from real-world elevation data, vegetation, rocks, and other natural features to simulate the challenges a robot might face in a forested area.
 
 
-![Alt text](/default_gzclient_camera(1)-2023-01-17T11_19_12.219697.jpg "3D realistic Forest")
+![Alt text](/Screenshot%20from%202024-10-07%2014-04-27.png) "3D realistic Forest")
 
 ## **Table of Contents**
 
