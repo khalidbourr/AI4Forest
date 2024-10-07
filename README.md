@@ -12,11 +12,7 @@
   - [Installing Unreal Engine 5 on Linux](#installing-unreal-engine-5-on-linux)
 - [Setting Up the Project](#setting-up-the-project)
 - [Running the Project](#running-the-project)
-- [Assets and Licensing](#assets-and-licensing)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
